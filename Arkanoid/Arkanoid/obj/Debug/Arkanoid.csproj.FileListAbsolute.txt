@@ -1,0 +1,40 @@
+C:\Users\alumno\source\repos\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe.config
+C:\Users\alumno\source\repos\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe
+C:\Users\alumno\source\repos\Arkanoid\Arkanoid\bin\Debug\Arkanoid.pdb
+C:\Users\alumno\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csprojResolveAssemblyReference.cache
+C:\Users\alumno\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Properties.Resources.resources
+C:\Users\alumno\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.GenerateResource.cache
+C:\Users\alumno\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.exe
+C:\Users\alumno\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.pdb
+C:\Users\alumno\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.FormArkanoid.resources
+E:\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe.config
+E:\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe
+E:\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\bin\Debug\Arkanoid.pdb
+E:\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csprojResolveAssemblyReference.cache
+E:\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.FormArkanoid.resources
+E:\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Properties.Resources.resources
+E:\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.GenerateResource.cache
+E:\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.CoreCompileInputs.cache
+E:\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.exe
+E:\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.pdb
+E:\Computing\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe.config
+E:\Computing\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe
+E:\Computing\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\bin\Debug\Arkanoid.pdb
+E:\Computing\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csprojResolveAssemblyReference.cache
+E:\Computing\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.FormArkanoid.resources
+E:\Computing\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Properties.Resources.resources
+E:\Computing\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.GenerateResource.cache
+E:\Computing\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.CoreCompileInputs.cache
+E:\Computing\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.exe
+E:\Computing\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.pdb
+E:\Developer\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe.config
+E:\Developer\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe
+E:\Developer\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\bin\Debug\Arkanoid.pdb
+E:\Developer\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csprojResolveAssemblyReference.cache
+E:\Developer\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.FormArkanoid.resources
+E:\Developer\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Properties.Resources.resources
+E:\Developer\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.GenerateResource.cache
+E:\Developer\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.CoreCompileInputs.cache
+E:\Developer\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.exe
+E:\Developer\Courses\DAM\2º\Desarrollo de Interfaces\Ejercicios\Arkanoid\Arkanoid\obj\Debug\Arkanoid.pdb
